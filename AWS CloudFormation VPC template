@@ -151,7 +151,7 @@ SecurityGroupIds:
       #!/bin/bash
       yum install httpd -y
       service httpd start
-        echo "<html><body><h1>Hello Justice!<h1></body></html>" > /var/www/html/index.html
+        echo "<html><body><h1>Hello Terrance!<h1></body></html>" > /var/www/html/index.html
 
 Outputs:
   VPC:
